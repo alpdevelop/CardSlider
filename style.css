@@ -1,0 +1,20 @@
+.arrow{
+  cursor: pointer;
+}
+.form-range{
+  width: 400px !important;
+}
+
+.rangeBar{
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  text-align: center;
+}
+
+.rangeValue{
+  margin-left: 20px;
+}
+#customRange2{
+  direction: rtl;
+}
